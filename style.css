@@ -34,7 +34,7 @@ section {
     visibility: hidden;
     opacity: 0;
     backdrop-filter: blur(5px);
-    background-color: #1a00589d;
+    background-color: red;
     padding: 15px 10px;
     border-radius: 20px;
     transition: all 0.5s ease-in-out;
